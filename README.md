@@ -15,7 +15,7 @@ Just please don’t:
 - Remix, modify, or republish them as your own
 - Use the Summercon name or logos outside the context of these original artworks
 
-If you’d like to do something **commercial** — like print runs, merchandise, exhibitions, or media reproduction — please reach out for permission at **mark@summercon.org** or **emily@summercon.org**.  
+If you’d like to do something **commercial** — like print runs, merchandise, exhibitions, or media reproduction — please reach out for permission at **legal@summercon.org**.  
 We’re usually enthusiastic about collaborations, but we do need to protect our copyrights and trademarks.
 
 ---
@@ -25,6 +25,8 @@ We’re usually enthusiastic about collaborations, but we do need to protect our
 Each poster will also be available for purchase as a high-quality print through our drop-shipping partner.  
 All proceeds go to the **Summercon Foundation, Inc.**, a registered **501(c)(3)** nonprofit, to support security education, research, and community events.  
 When you buy a poster, you’re contributing to the Foundation’s endowment and helping sustain Summercon’s mission for future generations.
+
+We'll provide information on how you can buy Summercon merchandise, including posters, soon!
 
 ---
 
@@ -67,6 +69,7 @@ which funds security education, research, and community events.
 
 ## 🧩 Repository Structure
 
+```
 /posters/
  /big-broker-is-watching/
  /buy-cyber-war-bonds/
@@ -79,13 +82,13 @@ which funds security education, research, and community events.
  /someone-clicked/
 README.md
 LICENSE
+```
 
 Each poster directory includes:
 - High-resolution PNG and PDF versions
-- Attribution text block
-- Preview image (optional)
+- Attribution text block (when available)
+- Preview image (when available)
 - A thumbnail image of the original poster that inspired us (when available)
-- Source and version information
 
 ---
 
