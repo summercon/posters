@@ -70,24 +70,24 @@ which funds security education, research, and community events.
 ## 🧩 Repository Structure
 
 ```
-/posters/
- /big-broker-is-watching/
- /buy-cyber-war-bonds/
- /doing-your-part/
- /get-root-keep-moving/
- /hack-for-victory/
- /i-want-you/
- /man-the-shells/
- /signal-groups-kill-troops/
- /someone-clicked/
-README.md
-LICENSE
+├── LICENSE
+├── README.md
+└── posters/
+    ├── big-broker-is-watching/
+    ├── buy-cyber-war-bonds/
+    ├── doing-your-part/
+    ├── get-root-keep-moving/
+    ├── hack-for-victory/
+    ├── i-want-you/
+    ├── man-the-shells/
+    ├── signal-groups-kill-troops/
+    └── someone-clicked/
 ```
 
 Each poster directory includes:
 - High-resolution PNG and PDF versions
 - Attribution text block (when available)
-- Preview image (when available)
+- Thumbnail of the poster (~512x768)
 - A thumbnail image of the original poster that inspired us (when available)
 
 ---
